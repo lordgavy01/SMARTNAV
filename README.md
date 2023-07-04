@@ -38,6 +38,12 @@ Our system can adapt the robot's actions based on generated prompts under variou
 '''
 git clone https://github.com/lordgavy01/SMARTNAV.git
 '''
+
+## Download Maps/Checkpoints/Datasets
+'''
+https://drive.google.com/drive/folders/1fiGEpnTH3LGC4y8w9HcCKNQfwQ71Z2x4?usp=sharing
+'''
+
 ## Install requirements
 '''
 pip install -r requirements.txt
