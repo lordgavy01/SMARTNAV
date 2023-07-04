@@ -54,5 +54,7 @@ pip install -r requirements.txt
 '''
 ## Steps to run the simulator
 '''
-python main.py
+Load the Checkpoint from the link or drive link using the training scripts provided.
+Add Model Name in compare.py
+python3 compare.py
 '''
