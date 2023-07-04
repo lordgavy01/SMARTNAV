@@ -36,13 +36,13 @@ Our system can adapt the robot's actions based on generated prompts under variou
 
 ## Clone this repository
 '''
-git clone https://github.com/[username]/[repository].git
+git clone https://github.com/lordgavy01/SMARTNAV.git
 '''
 ## Install requirements
 '''
 pip install -r requirements.txt
 '''
-## Run simulator
+## Steps to run the simulator
 '''
 python main.py
 '''
