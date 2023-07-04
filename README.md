@@ -43,6 +43,10 @@ git clone https://github.com/lordgavy01/SMARTNAV.git
 '''
 https://drive.google.com/drive/folders/1fiGEpnTH3LGC4y8w9HcCKNQfwQ71Z2x4?usp=sharing
 '''
+## Results Sheet and Intent Prediction Datasets
+'''
+https://docs.google.com/spreadsheets/d/1oueNS_yTCgeKNzwsBZFGF66fDl9W80E7/edit?usp=drive_link&ouid=100155854218838992736&rtpof=true&sd=true
+'''
 
 ## Install requirements
 '''
