@@ -1,0 +1,9 @@
+torch
+pygame
+sklearn
+tensorflow
+pandas
+matplotlib
+numpy
+clip
+cv2
