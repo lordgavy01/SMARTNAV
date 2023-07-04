@@ -1,0 +1,7 @@
+,sentence,v_prediction,w_prediction
+0,Maintain a safe distance from nearby obstacles to avoid collision.,Decrease Velocity,Remain Same Omega
+1,Caution: The area ahead is highly congested. Consider slowing down to navigate safely. ,Decrease Velocity,Remain Same Omega
+2,Watch out! There's a large obstacle approaching. Make sure to maintain safe distance. ,Decrease Velocity,Increase Omega
+3,"Good news! The destination is within your line of sight. Proceed towards it, ensuring to avoid any collisions. ",Decrease Velocity,Increase Omega
+4,Alert: You are in a potential deadlock situation. It's recommended to wait and monitor the other agent's actions to avoid collision.,Decrease Velocity,Remain Same Omega
+5,All clear. Proceed towards the destination.,Remain Same Velocity,Remain Same Omega
